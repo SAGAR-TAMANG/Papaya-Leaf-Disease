@@ -1,0 +1,7 @@
+*.keras
+*.rar
+*.zip
+papaya_data_split*
+venv
+Annotations
+Labels
